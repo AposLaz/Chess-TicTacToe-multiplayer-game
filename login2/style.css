@@ -1,0 +1,25 @@
+.navbar{
+	background-color: #006666;
+	width: 100%;
+}
+
+.navbar-brand{
+	margin-left:100px;
+}
+
+.collapse{
+	float:right;
+	margin-right:100px;
+}
+
+.footer{
+	width:100%;
+	padding:5px;
+	background-color:black;
+}
+
+.footer p{
+	margin-bottom: 5px;
+	text-align:center;
+	color: #fff;
+}
