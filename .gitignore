@@ -1,6 +1,8 @@
 PlayService/
 PlayService1/
 PlayService2/
+GameService/
+conf/
 docker-compose-copy.yml
 *.pdf
 *.mp4
