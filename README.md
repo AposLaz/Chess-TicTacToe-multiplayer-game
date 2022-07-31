@@ -18,8 +18,9 @@ Create your account and enjoy the game :D
 	
 # Application Logic
 
-1) Application supports Sign-up, Sign-in, cryptography, validation password, Roles (Admin, User)
-2) A player can play only vs another ```online``` user. User can see available and not available tables. 
-2) User can play a practice match or can take part in tournament.
-3) 
-
+1) Application supports Sign-up, Sign-in, cryptography, validation password, Roles (Admin, Official, player).
+2) A player can play only vs another **online** user. User can see available and not available tables. 
+3) User can play a practice match or can take part in tournament.
+4) Admin and Official users can create and delete tournaments.
+5) All results of practice match and tournaments are visible only by owner.
+6) Admin can delete and give a new role to user.
