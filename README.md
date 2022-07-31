@@ -24,3 +24,8 @@ Create your account and enjoy the game :D
 4) Admin and Official users can create and delete tournaments.
 5) All results of practice match and tournaments are visible only by owner.
 6) Admin can delete and give a new role to user.
+
+![image](https://user-images.githubusercontent.com/39645726/182026882-23ecf093-a32c-4fe8-9fdc-62d83226210f.png)
+
+
+
